@@ -12,11 +12,16 @@ The application's code is free to use and expand. If you are not familiar on how
 it is packaged on 2 versions on for Windows and one for Ubuntu-based systems.
 
 ## First screen of the application running
+![alt text](https://github.com/antokioukis/stats_downloader/blob/master/readme_images/intial_window.jpg?raw=true)
 
 ## Searching for multiple monsters at once
+![alt text](https://github.com/antokioukis/stats_downloader/blob/master/readme_images/before_searching_window.jpg?raw=true)
 
 ## Results after downloading
+![alt text](https://github.com/antokioukis/stats_downloader/blob/master/readme_images/results.jpg?raw=true)
 
 ## Stats file
+![alt text](https://github.com/antokioukis/stats_downloader/blob/master/readme_images/stats.jpg?raw=true)
 
 ## Spells file
+![alt text](https://github.com/antokioukis/stats_downloader/blob/master/readme_images/spells.jpg?raw=true)
